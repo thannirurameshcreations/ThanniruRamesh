@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+<b><marquee behavior="scroll" direction="left">
+Thanniru Ramesh Creations 
+</marquee>
+<h1 style="color:Tomato;">Thanniru Ramesh</h1>
+<h3>Writer , Director </h3>
+<h1> Tea Break </h1>
+<body style="background-color:yellow;">  </body>
+
+<head>
+  <title>Thanniru Ramesh</title>
+</head>
+
+<iframe width="350" height="180"
+src="https://www.youtube.com/embed/@thannirurameshcreations/">
+</iframe>
+
+
+<a href="https://www.youtube.com/@thannirurameshcreations">Youtube  Visit!</a>
+
+<svg width="300" height="200">
+  <polygon points="100,10 40,198 190,78 10,78 160,198"
+  style="fill:lime;stroke:purple;stroke-width:5;fill-rule:evenodd;" />
+</svg>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Occupation</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Thanniru Ramesh.</td>
+    <td>Writer , Director.</td>
+    <td>India</td>
+  </tr>
+</table>
+
+<b><h3 style="color:Tomato;">Thanniru Ramesh </h3> was born (15 May 1987), Credited as '''Director Thanniru Ramesh''', is an Indian film Maker who Predominantly works in [Telugu cinema]. The film [[Tea Break]] was Written and Directed by him. 
+He made his Debut in the film industry with the Film '''[[Tea Break]]'' Released on  [12-05-2023]. [[Priyanka Augustine]], [[Ashok Deva]], [[Ravikumar Sanapala]] Directed by [[Thanniru Ramesh]].
+
+</html>
+</body
